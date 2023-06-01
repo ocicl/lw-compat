@@ -1,0 +1,10 @@
+* lw-compat
+
+A few utility functions from the LispWorks library ported to other
+Common Lisp implementations.
+
+|---------+------------------------------------------------|
+| source  | git:https://github.com/pcostanza/lw-compat.git |
+| commit  | aabfe28                                        |
+| systems | lw-compat                                      |
+|---------+------------------------------------------------|
